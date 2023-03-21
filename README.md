@@ -1,7 +1,7 @@
 # LabCompuII
 
 ## Autores
-	-**Strumia**, Constanza
+- **Strumia**, Constanza
 ## Contenido
 	Esto es una prueba de markdown.
 
